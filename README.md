@@ -11,5 +11,3 @@
 
 ## Citation
 Fang Zhao, Jian Zhao, Shuicheng Yan, and Jiashi Feng. "Dynamic Conditional Networks for Few-Shot Learning." *European Conference on Computer Vision (ECCV)*, 2018.
-```
-
