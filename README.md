@@ -5,5 +5,5 @@
 
 
 <p align="center">
-  <img src="pub/Fig1.pdf" width="500">
+  <img src="pub/DCL.png" width="500">
 </p>
