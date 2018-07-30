@@ -9,5 +9,24 @@
 </p>
 
 
+## Getting Started
+Clone the repo:
+
+```
+git clone https://github.com/ZhaoJ9014/Dynamic-Conditional-Networks-for-Few-Shot-Learning.pytorch.git
+```
+
+### Requirements
+
+Tested under python3.
+
+- python packages
+  - pytorch>=0.3.1
+  - Anaconda3
+- An NVIDAI GPU and CUDA 8.0 or higher. Some operations only have gpu implementation.
+- **NOTICE**: different versions of Pytorch package have different memory usages.
+
+
+
 ## Citation
 Fang Zhao, Jian Zhao, Shuicheng Yan, and Jiashi Feng. "Dynamic Conditional Networks for Few-Shot Learning." *European Conference on Computer Vision (ECCV)*, 2018.
