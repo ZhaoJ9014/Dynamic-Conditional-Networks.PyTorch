@@ -7,3 +7,9 @@
 <p align="center">
   <img src="pub/DCL.png" width="500">
 </p>
+
+
+## Citation
+Fang Zhao, Jian Zhao, Shuicheng Yan, and Jiashi Feng. "Dynamic Conditional Networks for Few-Shot Learning." *European Conference on Computer Vision (ECCV)*, 2018.
+```
+
