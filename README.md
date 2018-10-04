@@ -29,5 +29,12 @@ Tested under python3.
 
 
 ## Citation
+- Please consult and consider citing the following paper:
 
-    Fang Zhao, Jian Zhao, Shuicheng Yan, and Jiashi Feng. "Dynamic Conditional Networks for Few-Shot Learning." *European Conference on Computer Vision (ECCV)*, 2018.
+      @inproceedings{zhao2018dynamic,
+      title={Dynamic Conditional Networks for Few-Shot Learning},
+      author={Zhao, Fang and Zhao, Jian and Yan, Shuicheng and Feng, Jiashi},
+      booktitle={ECCV},
+      pages={19--35},
+      year={2018}
+      }
