@@ -26,7 +26,13 @@ Tested under python3.
 - An NVIDAI GPU and CUDA 8.0 or higher. Some operations only have gpu implementation.
 - **NOTICE**: different versions of Pytorch package have different memory usages.
 
+****
+### Donation 
+:moneybag:
 
+* Your donation is highly welcomed to help us further develop Dynamic-Conditional-Networks.PyTorch to better facilitate more cutting-edge researches and applications on human-centric multi-media understanding. The donation QR code via Wechat is as below. Appreciate it very much:heart:
+ 
+  <img src="https://github.com/ZhaoJ9014/Dynamic-Conditional-Networks.PyTorch/blob/master/disp/Donation.jpeg" width="200px"/>
 
 ## Citation
 - Please consult and consider citing the following paper:
