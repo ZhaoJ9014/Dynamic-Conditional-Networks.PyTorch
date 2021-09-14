@@ -32,7 +32,7 @@ Tested under python3.
 
 * Your donation is highly welcomed to help us further develop Dynamic-Conditional-Networks.PyTorch to better facilitate more cutting-edge researches and applications on human-centric multi-media understanding. The donation QR code via Wechat is as below. Appreciate it very much:heart:
  
-  <img src="https://github.com/ZhaoJ9014/Dynamic-Conditional-Networks.PyTorch/blob/master/disp/Donation.jpeg" width="200px"/>
+  <img src="https://github.com/ZhaoJ9014/Dynamic-Conditional-Networks.PyTorch/blob/master/pub/Donation.jpeg" width="200px"/>
 
 ## Citation
 - Please consult and consider citing the following paper:
